@@ -10,7 +10,9 @@
 
 ## Universities (Профили вузов)
 
-> To be populated as we add institutions
+- [[universities/itmo|ИТМО]] — Топ-вуз ИТ в СПб, комьюнити, хакатоны, физика и CS
+- [[universities/bauman|МГТУ им. Баумана]] — Инженерия, ИУ-факультет, робототехника
+- [[universities/spbu|СПбГУ]] — Классический университет, математика на МКН
 
 ## Concepts
 
@@ -18,8 +20,8 @@
 
 ## Queries
 
-> To be populated with comparative analyses
+- [[son-admission-strategy-2026|Стратегия поступления сына 2026 (Мат=95, Физ=98, Рус=89)]] — ИТМО, МФТИ, ВШЭ, МИФИ, СПбГУ. Проходные баллы, сравнение, план подачи с ГТО (+2)
 
-## Schema & Docs
+## Schema &amp; Docs
 
 - [[SCHEMA|Схема вики]] — правила именования, фронтматтер, таксономия тегов
